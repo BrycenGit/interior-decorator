@@ -1,22 +1,22 @@
-#Interior Decorator Webpage
+# Interior Decorator Webpage
 
 Version 1, 08/05/2020
 
 By: Brycen, Forrest, Chase
 
-##Description
+## Description
 
 A website for my interior deco friend!
 
-###Known Bugs
+### Known Bugs
 
 None!
 
-###Contact
+### Contact
 
 Brycenbartolome@gmail.com
 
-###Tech used
+### Tech used
 
 VScode
 
